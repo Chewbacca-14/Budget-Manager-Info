@@ -3,7 +3,7 @@
     ⭐️  Budget Manager App Info  ⭐️  
 
 
-Welcome to the first app I wrote while learning flutter. It will help you keep track of your expenses and doses, it is localized in 4 languages.
+Welcome to the first app I wrote while learning flutter. It will help you keep track of your expenses and income, it is localized in 4 languages.
 
 ## Built with
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
