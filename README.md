@@ -10,10 +10,26 @@
 <table>
   <tr>
     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105625.jpg?raw=true" alt="Image 1"></td>
-     <td><img src="(https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105615.jpg?raw=true" alt="Image 1"></td>
+     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105615.jpg?raw=true" alt="Image 1"></td>
   </tr>
   <tr>
      <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105514.jpg?raw=true" alt="Image 1"></td>
       <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105510.jpg?raw=true" alt="Image 1"></td>
+  </tr>
+   <tr>
+     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105457.jpg?raw=true" alt="Image 1"></td>
+      <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105445.jpg?raw=true" alt="Image 1"></td>
+  </tr>
+   <tr>
+     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105440.jpg?raw=true" alt="Image 1"></td>
+      <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105434.jpg?raw=true" alt="Image 1"></td>
+  </tr>
+    <tr>
+     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105416.jpg?raw=true" alt="Image 1"></td>
+      <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105412.jpg?raw=true" alt="Image 1"></td>
+  </tr>
+    <tr>
+     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105514.jpg?raw=true"" alt="Image 1"></td>
+     
   </tr>
 </table>
