@@ -28,8 +28,5 @@
      <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105416.jpg?raw=true" alt="Image 1"></td>
       <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105412.jpg?raw=true" alt="Image 1"></td>
   </tr>
-    <tr>
-     <td><img src="https://github.com/Chewbacca-14/Budget-Manager-Info/blob/main/Screenshot_20230826_105514.jpg?raw=true"" alt="Image 1"></td>
-     
-  </tr>
+ 
 </table>
