@@ -1,7 +1,7 @@
-<h1 align="center" style="border-bottom: none">
+
    
-    ⭐️  Budget Manager App Info  ⭐️ <br>
-</h1>
+    ⭐️  Budget Manager App Info  ⭐️  
+
 
 Welcome to the first app I wrote while learning flutter. It will help you keep track of your expenses and doses, it is localized in 4 languages.
 
