@@ -1,6 +1,11 @@
-# Budget-Manager-Info
+<h1 align="center" style="border-bottom: none">
+   
+    ⭐️  Budget Manager App Info  ⭐️ <br>
+</h1>
 
-## Use To Code
+Welcome to the first app I wrote while learning flutter. It will help you keep track of your expenses and doses, it is localized in 4 languages.
+
+## Built with
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>    
